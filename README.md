@@ -4,7 +4,7 @@ Adds the `String>>kebabized` convenience so you can make any string to be diactr
 
 ## Usage
 
-`' Metéle        un readme cómo lÄ Geñte   ' kebabized` 
+```' Metéle        un readme cómo lÄ Geñte   ' kebabized```
 
 will answer 
 
