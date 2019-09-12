@@ -1,6 +1,8 @@
 # Kebab-String
 
->   Metacello new 
+ ```
+   Metacello new 
     repository: 'github://sebastianconcept/Kebab-String';
     baseline: 'KebabString';
     load.
+```
